@@ -1,0 +1,22 @@
+{
+  "background_color": "#2C2C2C",
+  "description": "Scouting in 2638 style!",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Scouting App",
+  "short_name": "Scouting App",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "landscape",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.reidf.2638scout"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.reidf.scout2638",
+      "id": "com.reidf.scout2638"
+    }
+  ],
+  "prefer_related_applications": true
+}
