@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "/static/js/main.f5e13830.js",
-    "static/js/492.a443b0c0.js": "/static/js/492.a443b0c0.js",
-    "static/media/2023Field.png": "/static/media/2023Field.336de87ee13b4b55b170.png",
-    "static/media/2023Cube.png": "/static/media/2023Cube.325a4edd8dd6735626d9.png",
-    "static/media/FontAwesome.ttf": "/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
-    "static/media/2023Cone.png": "/static/media/2023Cone.3fe978ee42de093d7d60.png",
-    "static/media/appicon.png": "/static/media/appicon.924b6bf174240275d666.png",
-    "static/media/Octicons.ttf": "/static/media/Octicons.6b742a230954dc640ba2.ttf",
-    "static/media/BlueGrid.png": "/static/media/BlueGrid.517bbd8ff410bfdb861c.png",
-    "static/media/RedGrid.png": "/static/media/RedGrid.c7ee7b0f9510a3a1ede6.png",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "manifest.json": "/manifest.json",
-    "favicon-16.png": "/favicon-16.png",
-    "serve.json": "/serve.json",
-    "main.f5e13830.js.map": "/static/js/main.f5e13830.js.map",
-    "492.a443b0c0.js.map": "/static/js/492.a443b0c0.js.map"
+    "main.js": "/ScoutingAppWebBuildTest/static/js/main.c7a04108.js",
+    "static/js/492.a443b0c0.js": "/ScoutingAppWebBuildTest/static/js/492.a443b0c0.js",
+    "static/media/2023Field.png": "/ScoutingAppWebBuildTest/static/media/2023Field.336de87ee13b4b55b170.png",
+    "static/media/2023Cube.png": "/ScoutingAppWebBuildTest/static/media/2023Cube.325a4edd8dd6735626d9.png",
+    "static/media/FontAwesome.ttf": "/ScoutingAppWebBuildTest/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/2023Cone.png": "/ScoutingAppWebBuildTest/static/media/2023Cone.3fe978ee42de093d7d60.png",
+    "static/media/appicon.png": "/ScoutingAppWebBuildTest/static/media/appicon.924b6bf174240275d666.png",
+    "static/media/Octicons.ttf": "/ScoutingAppWebBuildTest/static/media/Octicons.6b742a230954dc640ba2.ttf",
+    "static/media/BlueGrid.png": "/ScoutingAppWebBuildTest/static/media/BlueGrid.517bbd8ff410bfdb861c.png",
+    "static/media/RedGrid.png": "/ScoutingAppWebBuildTest/static/media/RedGrid.c7ee7b0f9510a3a1ede6.png",
+    "favicon.ico": "/ScoutingAppWebBuildTest/favicon.ico",
+    "index.html": "/ScoutingAppWebBuildTest/index.html",
+    "favicon-32.png": "/ScoutingAppWebBuildTest/favicon-32.png",
+    "manifest.json": "/ScoutingAppWebBuildTest/manifest.json",
+    "favicon-16.png": "/ScoutingAppWebBuildTest/favicon-16.png",
+    "serve.json": "/ScoutingAppWebBuildTest/serve.json",
+    "main.c7a04108.js.map": "/ScoutingAppWebBuildTest/static/js/main.c7a04108.js.map",
+    "492.a443b0c0.js.map": "/ScoutingAppWebBuildTest/static/js/492.a443b0c0.js.map"
   },
   "entrypoints": [
     "static/js/492.a443b0c0.js",
-    "static/js/main.f5e13830.js"
+    "static/js/main.c7a04108.js"
   ]
 }
