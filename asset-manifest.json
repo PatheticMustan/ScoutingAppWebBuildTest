@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.js": "/ScoutingAppWebBuildTest/static/js/main.c7a04108.js",
-    "static/js/492.a443b0c0.js": "/ScoutingAppWebBuildTest/static/js/492.a443b0c0.js",
-    "static/media/2023Field.png": "/ScoutingAppWebBuildTest/static/media/2023Field.336de87ee13b4b55b170.png",
+    "main.js": "/ScoutingAppWebBuildTest/static/js/main.85f02707.js",
+    "static/js/280.df7d22f0.js": "/ScoutingAppWebBuildTest/static/js/280.df7d22f0.js",
     "static/media/2023Cube.png": "/ScoutingAppWebBuildTest/static/media/2023Cube.325a4edd8dd6735626d9.png",
     "static/media/FontAwesome.ttf": "/ScoutingAppWebBuildTest/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
     "static/media/2023Cone.png": "/ScoutingAppWebBuildTest/static/media/2023Cone.3fe978ee42de093d7d60.png",
@@ -16,11 +15,11 @@
     "manifest.json": "/ScoutingAppWebBuildTest/manifest.json",
     "favicon-16.png": "/ScoutingAppWebBuildTest/favicon-16.png",
     "serve.json": "/ScoutingAppWebBuildTest/serve.json",
-    "main.c7a04108.js.map": "/ScoutingAppWebBuildTest/static/js/main.c7a04108.js.map",
-    "492.a443b0c0.js.map": "/ScoutingAppWebBuildTest/static/js/492.a443b0c0.js.map"
+    "main.85f02707.js.map": "/ScoutingAppWebBuildTest/static/js/main.85f02707.js.map",
+    "280.df7d22f0.js.map": "/ScoutingAppWebBuildTest/static/js/280.df7d22f0.js.map"
   },
   "entrypoints": [
-    "static/js/492.a443b0c0.js",
-    "static/js/main.c7a04108.js"
+    "static/js/280.df7d22f0.js",
+    "static/js/main.85f02707.js"
   ]
 }
